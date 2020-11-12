@@ -10,7 +10,7 @@ class ArticleBox extends React.Component {
         const indarticleinfo = this.props.articleinfo
         return (
           <div className="tasks" id={indarticleinfo.cssid}>
-            <div className="article" id="article-1">
+            <div className="article-ind" id="article-1">
               <img src="images/food.png" alt="" className="tasklogo" />
               <div className="article-topic">
               <h3>{indarticleinfo.heading}</h3>
@@ -20,7 +20,7 @@ class ArticleBox extends React.Component {
               {indarticleinfo.brief}
               </p>
               <br />
-            <div className="progress">Progress<span className="fright">{indarticleinfo.Progress}%</span></div>
+            <div className="progress-dashboard">Progress<span className="fright">{indarticleinfo.Progress}%</span></div>
 
       <div className="progressbar">
         <div></div>

@@ -25,7 +25,7 @@ class BigTile extends React.Component {
                     <div className="big-tile-article-date">
                         {this.props.date}
                     </div>
-                    <div class="big-tile-article-length">
+                    <div className="big-tile-article-length">
                         {this.props.readTime}
                     </div>
                 </div>

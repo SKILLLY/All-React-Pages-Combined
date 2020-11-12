@@ -95,7 +95,7 @@ body{
 .quick-view div{
   background-color: #FFFFFF;
 }
-.article{
+.article-ind{
   background-color: #FFFFFF;
   margin-left: auto;
   height: auto;
@@ -131,7 +131,7 @@ body{
   margin-top: 0px;
 }
 /* the word progress written and the percentage mentioned */
-.progress{
+.progress-dashboard{
   font-size: 10px;
   margin-bottom: 10px;
 }
