@@ -113,9 +113,6 @@ class AnalyticsStructure extends React.Component {
                         </div>
                         </div>
                 </div>
-                <div className="footerp">
-					           footer
-		             </div>
             </div>
         );
     }

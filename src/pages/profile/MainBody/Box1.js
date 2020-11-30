@@ -62,7 +62,7 @@ render() {
                   <div id= "User-Data" className="User-Data-3">
                       <div id="User-Review-Rating">
                           {this.props.data.reviewRating}
-                      </div>props.data
+                      </div>
                       <div className="User-Info">
                           AI RATING
                       </div>
